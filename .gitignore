@@ -1,0 +1,6 @@
+bin/
+lwjgl-2.8.3/
+slick/
+.classpath
+.settings/
+.project
